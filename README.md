@@ -15,7 +15,7 @@ cd ~/push_swap && make
 ./push_swap [-dnv] [number...]
 ~~~
 
-## Notice
+## notice
 
 *sa : swap a - intervertit les 2 premiers éléments au sommet de la pile a. Ne fait rien s’il n’y en a qu’un ou aucun.*
 
