@@ -17,7 +17,7 @@ Ce projet de l'école 42 à réaliser seul est un programme prenant des nombres 
 
 *sb : swap b - intervertit les 2 premiers éléments au sommet de la pile b. Ne fait rien s’il n’y en a qu’un ou aucun.*
 
-*ss : sa et sb en même temps.
+*ss : sa et sb en même temps.*
 
 *pa : push a - prend le premier élément au sommet de b et le met sur a. Ne fait rien si b est vide.*
 
