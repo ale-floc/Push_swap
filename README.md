@@ -4,10 +4,14 @@ Ce projet de l'école 42, à réaliser seul, est un programme qui prend des nomb
 
 ![alt text](header.png)
 
-## Usage
+## install & usage
 
 ~~~sh
-make
+git clone https://github.com/kaboff/Push_swap.git ~/push_swap
+cd ~/push_swap && make
+~~~
+
+~~~sh
 ./push_swap [-dnv] [number...]
 ~~~
 
