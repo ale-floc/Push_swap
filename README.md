@@ -1,13 +1,13 @@
 # Push_swap
 
-Ce projet de l'école 42 à réaliser seul est un programme prenant des nombres en paramètres et affiche les instructions pour les trier dans l'ordre croissant, il y à un jeu d'instructions limité.
-
+Ce projet de l'école 42, à réaliser seul, est un programme qui prend des nombres en paramètres et affiche les instructions pour les trier dans l'ordre croissant. Il a un jeu d'instructions limité.
 
 ![alt text](header.png)
 
 ## Usage
 
 ~~~sh
+make
 ./push_swap [-dnv] [number...]
 ~~~
 
