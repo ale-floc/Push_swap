@@ -1,3 +1,3 @@
 # Push_swap
 
-![Screenshot](header.jpg)
+![](header.png)
