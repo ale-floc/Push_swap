@@ -7,7 +7,7 @@ Ce projet de l'école 42, à réaliser seul, est un programme qui prend des nomb
 ## install & usage
 
 ~~~sh
-git clone https://github.com/kaboff/Push_swap.git ~/push_swap
+git clone https://github.com/ale-floc/Push_swap.git ~/push_swap
 cd ~/push_swap && make
 ~~~
 
